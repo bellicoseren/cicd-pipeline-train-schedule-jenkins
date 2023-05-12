@@ -9,6 +9,7 @@ node {
 	npmVersion = "5.6.0"
 }
 
+sourceCompatibility = '8'
 //declare a build task
 task build
 
